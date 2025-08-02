@@ -1,0 +1,45 @@
+1. Hash Maps/Sets
+    [x] two sum
+    [] valid anagram
+    [] first unique character in string
+    [] group anagrams
+    [] intersection of 2 arrays
+
+2. Strings/Palindromes/Pointers
+    [x] palindrome number
+    [] valid palindrome
+    [] longest common prefix
+    [] reverse string
+    [] implement strStr()
+
+3. Arrays/Sliding Window/Two pointers
+    [x] move zeros
+    [x] best time to buy and sell stock
+    [x] contains duplicates
+    [x] remove duplicates from array
+    [] max sub-array
+    [] merge two sorted lists*
+
+4. Stacks/Queues
+    [x] valid parentheses
+    [] min stack
+    [] implement queue with Stacks
+
+5. Math/Bit Manipulation/Misc
+    [x] FizzBuzz
+    [] add binary
+    [] number of one bits
+    [] hamming distance
+
+6. Linked Lists
+    [x] reverse linked list
+    [] merge two sorted lists
+    [x] linked list cycle
+
+7. BST
+    [] search a bst
+    [] validate a bst 
+    [] lowest common ancestor
+    [] insert 
+    [] delete node
+
