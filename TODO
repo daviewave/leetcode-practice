@@ -19,6 +19,9 @@
     [x] remove duplicates from array
     [] max sub-array
     [] merge two sorted lists*
+    [x] remove element
+    [x] first occurence in string
+    [x] length of last word
 
 4. Stacks/Queues
     [x] valid parentheses
@@ -37,9 +40,9 @@
     [x] linked list cycle
 
 7. BST
-    [] search a bst
+    [x] binary search list
     [] validate a bst 
     [] lowest common ancestor
-    [] insert 
+    [x] search insert 
     [] delete node
 
