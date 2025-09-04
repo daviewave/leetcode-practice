@@ -22,6 +22,7 @@
     [x] remove element
     [x] first occurence in string
     [x] length of last word
+    [x] plus one digit 
 
 4. Stacks/Queues
     [x] valid parentheses
@@ -41,8 +42,9 @@
 
 7. BST
     [x] binary search list
+    [x] search insert 
+    [x] sqrt x
     [] validate a bst 
     [] lowest common ancestor
-    [x] search insert 
     [] delete node
 
