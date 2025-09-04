@@ -38,8 +38,9 @@
 
 6. Linked Lists
     [x] reverse linked list
-    [] merge two sorted lists
     [x] linked list cycle
+    [x] remove duplicates from sorted singly
+    [] merge two sorted lists
 
 7. BST
     [x] binary search list
