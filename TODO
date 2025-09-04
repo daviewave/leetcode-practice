@@ -31,7 +31,8 @@
 
 5. Math/Bit Manipulation/Misc
     [x] FizzBuzz
-    [] add binary
+    [x] add binaries
+    [x] climb stairs
     [] number of one bits
     [] hamming distance
 
