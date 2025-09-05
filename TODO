@@ -48,6 +48,7 @@
     [x] search insert 
     [x] sqrt x
     [x] return in order node values traversal
+    [x] check if two trees are identical
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
