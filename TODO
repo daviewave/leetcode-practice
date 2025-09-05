@@ -47,6 +47,7 @@
     [x] binary search list
     [x] search insert 
     [x] sqrt x
+    [x] return in order node values traversal
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
