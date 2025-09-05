@@ -22,6 +22,8 @@
     [x] length of last word
     [x] plus one digit
     [x] merge sorted arrays 
+    [x] search insert 
+    [x] binary search list 
     [] max sub-array
     [] merge two sorted lists*
 
@@ -34,6 +36,7 @@
     [x] FizzBuzz
     [x] add binaries
     [x] climb stairs
+    [x] sqrt x
     [] number of one bits
     [] hamming distance
 
@@ -44,11 +47,9 @@
     [] merge two sorted lists
 
 7. BST
-    [x] binary search list
-    [x] search insert 
-    [x] sqrt x
     [x] return in order node values traversal
     [x] check if two trees are identical
+    [x] check if a tree is symmetrical (mirrored) on left + right
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
