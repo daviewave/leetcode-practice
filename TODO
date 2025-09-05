@@ -17,12 +17,13 @@
     [x] best time to buy and sell stock
     [x] contains duplicates
     [x] remove duplicates from array
-    [] max sub-array
-    [] merge two sorted lists*
     [x] remove element
     [x] first occurence in string
     [x] length of last word
-    [x] plus one digit 
+    [x] plus one digit
+    [x] merge sorted arrays 
+    [] max sub-array
+    [] merge two sorted lists*
 
 4. Stacks/Queues
     [x] valid parentheses
