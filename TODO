@@ -52,6 +52,7 @@
     [x] check if two trees are identical
     [x] check if a tree is symmetrical (mirrored) on left + right
     [x] max depth
+    [x] sorted array to BST
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
