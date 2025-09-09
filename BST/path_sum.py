@@ -9,21 +9,25 @@ class TreeNode:
         self.left = left
         self.right = right
 
-def min_depth(root):
+def path_sum(root, target_sum):
     from collections import deque
     if not root:
-        return 0
+        return False
 
-    queue = deque([(root, 1)])
+    queue = deque([(root, root.val)])
     while queue:
-        node, depth = queue.popleft()
+        node, curr_total = queue.popleft()
         if not node.left and not node.right:
-            return depth
-        
+            if curr_total == target_sum:
+                return True
+
         if node.left:
-            queue.append((node.left, depth + 1))
+            queue.append((node.left, curr_total + node.left.val))
+
         if node.right:
-            queue.append((node.right, depth + 1))
+            queue.append((node.right, curr_total + node.right.val))
+
+    return False
 
 if __name__ == "__main__":
-    function()
+    path_sum()

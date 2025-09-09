@@ -55,6 +55,7 @@
     [x] sorted array to BST
     [x] is BST balanced 
     [x] min depth of BST
+    [x] path sum
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
