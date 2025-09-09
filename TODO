@@ -54,6 +54,7 @@
     [x] max depth
     [x] sorted array to BST
     [x] is BST balanced 
+    [x] min depth of BST
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
