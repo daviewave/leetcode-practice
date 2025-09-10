@@ -57,6 +57,7 @@
     [x] is BST balanced 
     [x] min depth of BST
     [x] path sum
+    [x] preorder traversal
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
