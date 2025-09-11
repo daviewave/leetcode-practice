@@ -41,6 +41,7 @@
     [x] single number
     [x] pascal's triangle
     [x] convert column number to excel column title
+    [x] convert excel column title to column number 
     [] number of one bits
     [] hamming distance
 
