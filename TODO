@@ -45,7 +45,7 @@
     [x] convert excel column title to column number
     [x] reverse bits of a 32 bit signed int
     [x] hamming_weight
-    [] number of one bits
+    [x] add digits in number until result is single digit
     [] hamming distance
 
 6. Linked Lists
