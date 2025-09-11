@@ -67,6 +67,7 @@
     [x] path sum
     [x] preorder traversal
     [x] postorder traversal
+    [x] count nodes
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
