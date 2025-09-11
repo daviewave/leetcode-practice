@@ -51,6 +51,7 @@
     [x] remove duplicates from sorted singly
     [x] get intersecting node
     [] merge two sorted lists
+    [x] add two numbers (med)
 
 7. BST
     [x] return in order node values traversal
