@@ -44,6 +44,7 @@
     [x] convert column number to excel column title
     [x] convert excel column title to column number
     [x] reverse bits of a 32 bit signed int
+    [x] hamming_weight
     [] number of one bits
     [] hamming distance
 
