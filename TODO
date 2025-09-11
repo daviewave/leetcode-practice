@@ -39,6 +39,7 @@
     [x] sqrt x
     [x] single number
     [x] pascal's triangle
+    [x] convert column number to excel column title
     [] number of one bits
     [] hamming distance
 
