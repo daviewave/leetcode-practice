@@ -53,6 +53,7 @@
     [x] linked list cycle
     [x] remove duplicates from sorted singly
     [x] get intersecting node
+    [x] remove elements with target val
     [] merge two sorted lists
     [x] add two numbers (med)
 
