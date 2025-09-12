@@ -33,6 +33,7 @@
 4. Stacks/Queues
     [x] valid parentheses
     [x] implement a stack using queues
+    [x] implement a queue using stacks
     [] min stack
     [] implement queue with Stacks
 
