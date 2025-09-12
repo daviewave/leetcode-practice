@@ -70,6 +70,7 @@
     [x] preorder traversal
     [x] postorder traversal
     [x] count nodes
+    [x] invert tree
     [] validate a bst 
     [] lowest common ancestor
     [] delete node
