@@ -16,6 +16,7 @@
     [x] move zeros
     [x] best time to buy and sell stock
     [x] contains duplicates
+    [x] contains nearby duplicate
     [x] remove duplicates from array
     [x] remove element
     [x] first occurence in string
