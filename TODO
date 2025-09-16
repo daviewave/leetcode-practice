@@ -49,6 +49,7 @@
     [x] reverse bits of a 32 bit signed int
     [x] hamming_weight
     [x] add digits in number until result is single digit
+    [x] ugly number 
     [] hamming distance
 
 6. Linked Lists
