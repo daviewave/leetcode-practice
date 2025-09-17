@@ -55,6 +55,7 @@
     [x] hamming_weight
     [x] add digits in number until result is single digit
     [x] ugly number 
+    [x] is power of 2
     [] hamming distance
 
 6. Linked Lists
