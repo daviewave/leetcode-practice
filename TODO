@@ -7,6 +7,7 @@
 
 2. Strings/Palindromes/Pointers
     [x] palindrome number
+    [x] zizzag conversion (med)
     [] valid palindrome
     [] longest common prefix
     [] reverse string
